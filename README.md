@@ -1,21 +1,20 @@
 # Hello, I'm Phil 👋
 
-Welcome to my GitHub profile! I'm passionate about game development, and I love to create and contribute to exciting projects.
+Welcome to my GitHub profile! I'm passionate about competitive programming.
 
 ## About Me
 
-- 🌱 I'm currently learning web development.
-- 💬 Ask me about game development.
-- 👀 I’m interested in video games.
+- 🌱 I'm currently learning algorithms.
+- 💬 Ask me about coding interviews.
+- 👀 I’m interested in game development.
 - 💞️ I’m looking to collaborate on the next Zelda.
-- 📫 How to reach me: Check out my youtube channel KnisSukparangsee.
+- 📫 How to reach me: Send me an email.
 
 ## My Projects
 
 Here are some of the projects I've been working on:
 
-- CS50 Webdev: I'm learning the ropes!
-- WIP
+- Creating Git
 
 Feel free to explore my repositories to find more interesting projects!
 
