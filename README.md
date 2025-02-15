@@ -20,7 +20,7 @@ Feel free to explore my repositories to find more interesting projects!
 
 ## Connect with Me
 
-- GitHub: [KnisSukparangsee](https://github.com/YourUsername)
+- GitHub: [KnisSukparangsee](https://github.com/KnisSukparangsee)
 - LinkedIn: [Knis (Phil) Sukparangsee](https://linkedin.com/in/knis-phil-sukparangsee-388314214)
 - Youtube: [@KnisSukparangsee](https://www.youtube.com/channel/UCoO0iJS-ziv8Sz-DWggTSUg)
 - Email: knis.phil@gmail.com
